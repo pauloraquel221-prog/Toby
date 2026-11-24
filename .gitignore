@@ -1,0 +1,7 @@
+node_modules/
+*.log
+*.bak*
+*.visbak*
+.env
+.env.*
+server.js.base_restore
